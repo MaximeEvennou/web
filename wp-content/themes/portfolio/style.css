@@ -1,0 +1,74 @@
+/*
+Theme Name: portfolio
+Theme URI: http://localhost/web/wp-content/themes/portfolio/
+Description: porfolio developpeur WEB
+Author: Maxime EVENNOU
+Author URI: http://localhost/web
+*/
+
+body{
+    background: #191517;
+    color: white;
+    list-style-type: none;
+}
+pre{
+    color: rgb(51, 255, 0);
+}
+.gold{
+    color: #b2965d;
+    background: black;
+    min-height: 100px;
+}
+.silver{
+    background: black;
+    min-height: 100px;
+}
+.grey{
+    background: black;
+    min-height: 300px;
+}
+section{
+    min-height: 500px;
+}
+.yellow, .orange{
+    border-top: 2px solid #b2965d;;
+    background: black;
+    min-height: 80px;
+}
+.logo{
+    margin-top: 10px;
+}
+#wysiwyg_widgets_widget-5{
+    margin-left: 350px;
+}
+.navbar{
+    background: #191517;
+}
+.page_item{
+    text-decoration: none !important;
+    list-style-type: none !important;
+    display: inline;
+    padding: 20px;
+}
+.page_item a{
+    text-decoration: none !important;
+    list-style-type: none !important;
+    color: #b2965d;
+}
+.navbar-brand{
+    color: #b2965d;
+}
+.competences{
+    color: #b2965d;
+}
+.row{
+    color: #b2965d;
+}
+.titre-boucle{
+    color: #b2965d;
+    text-decoration: none !important;
+}
+.banniere{
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
