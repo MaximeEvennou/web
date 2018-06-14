@@ -33,7 +33,7 @@ section{
 .yellow, .orange{
     border-top: 2px solid #b2965d;;
     background: black;
-    min-height: 80px;
+    min-height: 70px;
 }
 .logo{
     margin-top: 10px;
@@ -66,6 +66,10 @@ section{
 }
 .titre-boucle{
     color: #b2965d;
+    text-decoration: none !important;
+}
+.titre-boucle:hover{
+    color: #c2985d;
     text-decoration: none !important;
 }
 .banniere{
